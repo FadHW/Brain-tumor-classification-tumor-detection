@@ -39,7 +39,7 @@ A deep learning image classification model is trained to classify MRI scans into
 
 ## Notebook
 - Detection Notebook:  
-  https://www.kaggle.com/code/fadyhanywadie/detection-using-yolo-for-brain-tumor  
+  https://www.kaggle.com/code/fadyhanywadie/fork-of-detection-using-yolo-for-brain-tumor   
 
 ---
 
